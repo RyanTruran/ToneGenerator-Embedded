@@ -1,0 +1,22 @@
+Dependencies for Project 'Lab11', Target 'Lab11': (DO NOT MODIFY !)
+F (.\startup.s)(0x5E48B442)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\UART.c)(0x5E48B3B5)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (tm4c123gh6pm.h)(0x5B848750)
+I (UART.h)(0x54A15930)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C86E14)
+F (.\main.c)(0x5E48D8DE)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (UART.h)(0x54A15930)
+I (TExaS.h)(0x5699A584)
+I (Sound.h)(0x5E47012E)
+I (Piano.h)(0x5E4703E5)
+F (.\Sound.c)(0x5E47017B)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\sound.o --omf_browse .\sound.crf --depend .\sound.d)
+I (Sound.h)(0x5E47012E)
+I (DAC.h)(0x5E47013C)
+I (..\..//tm4c123gh6pm.h)(0x5B848750)
+F (.\DAC.c)(0x5E47045E)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\dac.o --omf_browse .\dac.crf --depend .\dac.d)
+I (DAC.h)(0x5E47013C)
+I (..\..//tm4c123gh6pm.h)(0x5B848750)
+F (.\Piano.c)(0x5E470452)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\piano.o --omf_browse .\piano.crf --depend .\piano.d)
+I (Piano.h)(0x5E4703E5)
+I (..\..//tm4c123gh6pm.h)(0x5B848750)
+F (.\texas.o)(0x5699A584)()
