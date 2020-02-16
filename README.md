@@ -13,7 +13,9 @@ To get started simply clone this repository,
 To build this application Keil μVision 4.74.0 is required. 
 
 Once downloaded, you will need to rebuild all code, then load it to the μController.
+
+Issue a reset from the controller to ensure all ports and
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjIyNjU3MywtMTU3NTUzMDAzNCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjg3MzAwOTgsLTc2MjIyNjU3MywtMT
+U3NTUzMDAzNCw3MzA5OTgxMTZdfQ==
 -->
