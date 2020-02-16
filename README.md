@@ -12,8 +12,8 @@ To get started simply clone this repository,
 ```git clone https://github.com/RyanTruran/ToneGenerator-Embedded.git```
 To build this application Keil μVision 4.74.0 is required. 
 
-
-> Written with [StackEdit](https://stackedit.io/).
+Once downloaded, you will need to rebuild all code, then load it to the μController.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU1MzAwMzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTc2MjIyNjU3MywtMTU3NTUzMDAzNCw3Mz
+A5OTgxMTZdfQ==
 -->
