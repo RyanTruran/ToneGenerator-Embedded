@@ -14,8 +14,8 @@ To build this application Keil μVision 4.74.0 is required.
 
 Once downloaded, you will need to rebuild all code, then load it to the μController.
 
-Issue a reset from the controller to ensure all ports and
+Issue a reset from the controller to ensure all required ports are open, before attempting to communicate form **ToneGenerator**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg3MzAwOTgsLTc2MjIyNjU3MywtMT
-U3NTUzMDAzNCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTM0MDg0MDE2OSwtNzYyMjI2NTczLC0xNT
+c1NTMwMDM0LDczMDk5ODExNl19
 -->
