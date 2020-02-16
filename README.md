@@ -16,8 +16,10 @@ Once downloaded, you will need to rebuild all code, then load it to the μContro
 
 Issue a reset from the controller to ensure all required ports are open, before attempting to communicate form **ToneGenerator**
 
-##
+### Board Configuration
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY2ODE0MzUsMTM0MDg0MDE2OSwtNz
+eyJoaXN0b3J5IjpbLTIwODkwNDU3NDgsMTM0MDg0MDE2OSwtNz
 YyMjI2NTczLC0xNTc1NTMwMDM0LDczMDk5ODExNl19
 -->
