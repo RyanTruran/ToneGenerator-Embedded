@@ -11,7 +11,6 @@
 #include "UART.h"
 #include "TExaS.h"
 #include "Sound.h"
-#include "Piano.h"
 
 int reset;
 void EnableInterrupts(void);  // Enable interrupts
@@ -22,7 +21,6 @@ unsigned long current;
 int main(void){ unsigned long n;
   TExaS_Init();             // initialize grader, set system clock to 80 MHz
   UART_Init();							// initialize UART
-	Piano_Init();
 	Sound_Init();
   EnableInterrupts();       // needed for TExaS
 	UART_OutString("Connected to Tone Generator\r\n");
